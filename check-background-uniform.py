@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 
 def verify_photo(photo_path):
-    # Load the captured photo
+    # Load the captured hhhh photo
     photo = cv2.imread(photo_path)
 
     # Convert the image to grayscale for background analysis
